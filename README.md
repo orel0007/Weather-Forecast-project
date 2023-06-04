@@ -1,5 +1,5 @@
 # Weather Forecast website project – 
-built both client and server side using HTML, CSS, JAVA SCRIPT, NODE.JS, SPRING. Managed the information with postgresql.
+Built both client and server side using HTML, CSS, JAVA SCRIPT, NODE.JS, SPRING. Managed the information with postgresql.
 Web Development skills we used: 
 - Built Responsive Design Projects using CSS, HTML
 -	Experience using Asynchronous Programming (JSON, Promises, web workers)
