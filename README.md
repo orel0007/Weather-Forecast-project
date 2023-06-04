@@ -1,4 +1,4 @@
-# Weather Forecast website project – 
+# Weather Forecast project – 
 Built both client and server side using HTML, CSS, JAVA SCRIPT, NODE.JS, SPRING. Managed the information with postgresql.
 Web Development skills we used: 
 - Built Responsive Design Projects using CSS, HTML
